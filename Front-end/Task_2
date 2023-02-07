@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+ <ul>
+       <li style="color: rgb(126, 14, 33);"> Tea</li>
+    <ol>
+        <li>TWININGS</li>
+        <li>Lipton</li>
+        <li>AHMAD TEA</li>
+    </ol>
+<br>
+    <li style="color: rgb(136, 12, 21);">Coffee</li>
+    <ol>
+        <li>BONCAFE</li>
+        <li>LAVAZZA</li>
+        <li>Abu Auf</li>
+    </ol>
+<br>
+    <li style="color: rgb(137, 39, 39);">Juice</li>
+    <ol>
+        <li>LAMAR</li>
+        <li>Almarai</li>
+        <li>TANG</li>
+    </ol>
+
+</ul>
+
+</body>
+</html>
