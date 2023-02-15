@@ -1,0 +1,62 @@
+/*div{
+    background-color: rgb(219, 141, 189);
+    width: 150px;
+    height: 150px;
+    margin-bottom: 5%;
+}*/
+/*.one{
+    overflow-y: scroll;
+}
+.two{
+    overflow-y: hidden;
+}
+.three{
+    overflow-y: visible;
+}
+.four{
+    overflow-y: auto;
+}*/
+/*.one{
+    overflow-x: scroll;
+}
+.two{
+    overflow-x: hidden;
+}
+.three{
+    overflow-x: visible;
+}
+.four{
+    overflow-x: auto;
+}*/
+
+
+
+/*---------------------------------------*/
+
+
+/*.r{
+    background-color: rgb(65, 108, 158);
+    margin-bottom: 10%;
+    height: 100px;
+    max-width: 200px;
+}
+.e{
+    background-color: rgb(65, 108, 158);
+    margin-bottom: 50%;
+    width: 200px;
+    max-height: 60000px;
+}*/
+
+
+/*------------------------------------*/
+
+img{
+    /* vertical-align: middle;
+     vertical-align: bottom;
+    vertical-align: top; 
+    width: 50px;
+    height: 50px;
+    vertical-align: sub;
+    vertical-align: super;  */
+    vertical-align: baseline;
+}
