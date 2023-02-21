@@ -1,0 +1,21 @@
+.flexx{
+    display:flex;
+    background-color: rgb(241, 242, 248);
+    
+}
+.flexx div{
+    margin: 3%;
+    border-radius: 30px;
+    background-color: rgb(252, 254, 254);
+    width: calc(95%/3);
+    height: 550px;
+    text-align: center;
+}
+img{
+    height: 50%;
+    width: 100%;
+    border-radius: 30px;
+}
+pre{
+    text-align: start;
+}
